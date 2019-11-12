@@ -1,1 +1,2 @@
 # WeatherAPI
+The weather service API will receive a daily file that contains a list of cities. For each city in the file we need to retrieve the weather information from the Open WeatherRESTful web service. Results will need to be stored in the outputfolder, so that each file only holds the information for each cityfor today’s date.We need to establish historic information, so file naming should cater for it.
