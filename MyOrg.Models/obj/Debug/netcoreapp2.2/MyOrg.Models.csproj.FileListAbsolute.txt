@@ -1,0 +1,8 @@
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\bin\Debug\netcoreapp2.2\MyOrg.Models.deps.json
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\bin\Debug\netcoreapp2.2\MyOrg.Models.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\bin\Debug\netcoreapp2.2\MyOrg.Models.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\obj\Debug\netcoreapp2.2\MyOrg.Models.csproj.CoreCompileInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\obj\Debug\netcoreapp2.2\MyOrg.Models.AssemblyInfoInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\obj\Debug\netcoreapp2.2\MyOrg.Models.AssemblyInfo.cs
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\obj\Debug\netcoreapp2.2\MyOrg.Models.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Models\obj\Debug\netcoreapp2.2\MyOrg.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.deps.json
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Common.Helper.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Models.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Common.Helper.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\bin\Debug\netcoreapp2.2\MyOrg.Models.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.csprojAssemblyReference.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.AssemblyInfo.cs
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.csproj.CopyComplete
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Integration.WeatherAPI\obj\Debug\netcoreapp2.2\MyOrg.Integration.WeatherAPI.pdb

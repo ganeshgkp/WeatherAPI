@@ -1,0 +1,12 @@
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\bin\Debug\netcoreapp2.2\MyOrg.Common.Helper.deps.json
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\bin\Debug\netcoreapp2.2\MyOrg.Common.Helper.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\bin\Debug\netcoreapp2.2\MyOrg.Common.Helper.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\bin\Debug\netcoreapp2.2\MyOrg.Models.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\bin\Debug\netcoreapp2.2\MyOrg.Models.pdb
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.csprojAssemblyReference.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.csproj.CoreCompileInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.AssemblyInfoInputs.cache
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.AssemblyInfo.cs
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.csproj.CopyComplete
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.dll
+C:\Users\ganesh10841\source\repos\MyWeatherService\MyOrg.Common.Helper\obj\Debug\netcoreapp2.2\MyOrg.Common.Helper.pdb

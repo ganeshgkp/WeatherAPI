@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyOrg.Common.Helper\MyOrg.Common.Helper.csproj" />
+    <ProjectReference Include="..\MyOrg.Integration.WeatherAPI\MyOrg.Integration.WeatherAPI.csproj" />
+    <ProjectReference Include="..\MyOrg.Models\MyOrg.Models.csproj" />
+  </ItemGroup>
+
+</Project>
